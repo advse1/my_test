@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <?php
 ?>
+тест1
 <html dir="rtl">
     <head>
         <script type="text/javascript">
