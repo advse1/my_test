@@ -2,6 +2,7 @@
 <?php
 ?>
 тест1
+тест2
 <html dir="rtl">
     <head>
         <script type="text/javascript">
