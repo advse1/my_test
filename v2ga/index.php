@@ -3,7 +3,6 @@
 ?>
 тест1
 тест2
-ветка 2
 <html dir="rtl">
     <head>
         <script type="text/javascript">
